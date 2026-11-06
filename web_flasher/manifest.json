@@ -1,0 +1,6 @@
+{
+  "name": "NoxBrain Universal Solar Gateway (Classic ESP32)",
+  "version": "1.1.43-esp32-pending-build",
+  "new_install_prompt_erase": false,
+  "builds": []
+}
